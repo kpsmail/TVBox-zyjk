@@ -125,6 +125,7 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 河南都市频道,http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv2
 河南都市频道,http://219.150.217.41:6610/PLTV1/600/index.m3u8?icpid=dxrm1
+河南都市频道,https://stream1.freetv.fun/11e82e358ae118b21177cb77e992a12e837bde17ac492fa80f000466a488bb19.m3u8
 
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
