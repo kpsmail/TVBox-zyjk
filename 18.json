@@ -45,7 +45,7 @@
 
 {"key":"黄瓜TV","name":"黄瓜TV️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄瓜TV.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
-{"key":"banan","name":"banan","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/banan.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d
+{"key":"banan","name":"banan","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/banan.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"西瓜影视","name":"西瓜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/西瓜影视.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
