@@ -4,9 +4,9 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
-{"key":"天天综合","name":"天天综合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天综合.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+//{"key":"天天综合","name":"天天综合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天综合.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
-{"key":"天天直播","name":"天天直播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天直播.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+//{"key":"天天直播","name":"天天直播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天直播.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
 {"key":"色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"黄仓库","name":"黄仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄仓库.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
