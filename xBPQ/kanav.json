@@ -11,7 +11,7 @@
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
   "简介": "简介：&&</p>",
-  "搜索url": "https://c1.kanav.art/index.php/vod/search/by/time_add/page/{pg}/wd/{wd}.html",
+  "搜索url": "https://kanav.info/index.php/vod/search/by/time_add/page/{pg}/wd/{wd}.html",
   "搜索模式": "0",
   "搜索数组": "<div class=\"video-item\"&&</div>",
   "搜索图片": "data-original=\"&&\"",
