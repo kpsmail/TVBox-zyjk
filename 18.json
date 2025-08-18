@@ -12,7 +12,6 @@
 {"key":"黄仓库","name":"黄仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄仓库.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"hsck","name":"hsck","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/hsck.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"kanav","name":"kanav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/kanav.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"91麻豆网","name":"91麻豆网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/91md.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/新香蕉中文字幕.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
