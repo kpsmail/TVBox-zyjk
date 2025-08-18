@@ -4,32 +4,27 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
+{"key":"drpy_js_Missav","name":"Missav[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/Missav.js"},
+{"key":"drpy_js_朱古力","name":"朱古力[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/朱古力.js"},
+{"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/玩偶姐姐.js"},
+  
 {"key":"色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"黄仓库","name":"黄仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄仓库.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"hsck","name":"hsck","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/hsck.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"kanav","name":"kanav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/kanav.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"GAOAA","name":"GAOAA","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/GAOAA.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-
-
 {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"AIvin","name":"AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"91麻豆","name":"91md.me","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"美少女资源","name":"美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"香奶儿资源","name":"香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大地资源","name":"大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
-
 { "key":"黄AV资源", "name":"黄AV资源", "type":0, "api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"番号资源","name":"番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
