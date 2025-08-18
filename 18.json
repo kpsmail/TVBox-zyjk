@@ -7,7 +7,7 @@
 {"key":"drpy_js_Missav","name":"Missav[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/Missav.js"},
 {"key":"drpy_js_朱古力","name":"朱古力[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/朱古力.js"},
 {"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/玩偶姐姐.js"},
-{"key":"玩偶姐姐","name":"玩偶姐姐〔翻墙〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/玩偶姐姐.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},  
+{"key":"玩偶姐姐","name":"玩偶姐姐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/玩偶姐姐.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},  
   
 {"key":"色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"黄仓库","name":"黄仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄仓库.json","jar":"./JAR/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
